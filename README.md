@@ -18,8 +18,13 @@ Svelte v3.55.0
 - Svelte Animate
 
 ## Installation
-Install the dependencies and devDependencies and start the server.
+Install the dependencies with:
 
 ```sh
 npm i
+```
+
+Start the server with:
+```sh
+npm run dev
 ```
